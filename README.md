@@ -1,5 +1,7 @@
 # Back-Office Automation for SMBs
 
+<p align="center"><img src="./assets/og-image.png" alt="workflow-automation-pack banner" width="800"></p>
+
 > Stop paying staff to copy-paste. We connect your invoicing, CRM, scheduling, and email so the busywork runs itself.
 
 [![CI](https://github.com/QuantumSwarms/workflow-automation-pack/actions/workflows/ci.yml/badge.svg)](https://github.com/QuantumSwarms/workflow-automation-pack/actions/workflows/ci.yml)
